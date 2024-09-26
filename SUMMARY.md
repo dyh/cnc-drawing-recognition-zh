@@ -4,8 +4,8 @@
 
 ## 入门指南 <a href="#getting-started" id="getting-started"></a>
 
-* [通过浏览器使用接口](getting-started/tong-guo-liu-lan-qi-shi-yong-jie-kou.md)
-* [通过 POST 使用接口](getting-started/tong-guo-post-shi-yong-jie-kou.md)
+* [通过浏览器使用接口](getting-started/browser-use.md)
+* [通过 POST 使用接口](getting-started/post-call.md)
 
 ## 功能说明 <a href="#features" id="features"></a>
 
