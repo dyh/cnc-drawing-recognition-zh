@@ -79,7 +79,7 @@ class Program
 {% endtab %}
 {% endtabs %}
 
-在上述命令中，请将 `tu_zhi_1.pdf` 替换为您本地的图纸文件路径。
+在上述命令中，请将 `tu_zhi_1.pdf` 替换为您本地的图纸文件路径。文件类型支持 pdf、 jpg、 png。
 
 
 
