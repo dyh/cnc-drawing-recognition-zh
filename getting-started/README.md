@@ -1,4 +1,4 @@
-# 概览
+# 入门指南
 
 ## 最先进的数控图纸识别系统！
 
@@ -12,5 +12,5 @@
 
 ## 系统的使用方式
 
-1. [通过浏览器使用，简便快捷。](getting-started/browser-use.md)
-2. [通过API接口使用，灵活定制，满足个性化需求。](getting-started/post-call/)
+1. [通过浏览器使用，简便快捷。](browser-use.md)
+2. [通过API接口使用，灵活定制，满足个性化需求。](post-call/)
