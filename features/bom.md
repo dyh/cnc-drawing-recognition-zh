@@ -2,7 +2,7 @@
 
 ## 已经支持的样式
 
-
+<table data-view="cards"><thead><tr><th>样式</th><th>序号</th><th>品牌</th><th>型号</th><th>描述</th><th>数量</th><th>材质</th><th>牙套</th><th>直径</th><th>编号</th><th>长度</th><th>零件号</th><th>零件名称</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
 
 
 
